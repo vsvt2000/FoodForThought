@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Tinos&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+
+.authormsg{
+    font-family:'Tinos','serif';
+    background-color: #F5F2E8;
+    border-style: solid;
+    border-color: #92a8d1;
+    float:right;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top:10%;
+    margin-bottom:10%;
+    padding-right: 3%;
+    padding-left: 3%;
+    padding-top:3%;
+    padding-bottom:3%;
+    width:20%;
+    height:auto;
+}
+
+.article-day{
+    font-family:'Tinos','serif';
+    background-color: #F5F2E8;
+    border-style: solid;
+    border-color: #92a8d1;
+    float:left;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top:10%;
+    margin-bottom:auto;
+    padding-right: 3%;
+    padding-left: 3%;
+    padding-top:3%;
+    padding-bottom:auto;
+    width:30%;
+    height:auto;
+}
+
+.navbar{
+    display:flex;
+    text-align: center;
+    font-family: 'Kalam', cursive;
+    width:99.5%;
+    height:auto;
+    border-style:solid;
+    border-color: black;
+}
+
+.bottom-navbar{
+    display:flex;
+    justify-content: center;
+    font-family:  'Kalam', cursive;
+    width:99.5%;
+    height:auto;
+    border-style:solid;
+    border-color: black;
+    margin-bottom: '5%';
+}
+.home-content{
+    background-image: url('../images/newspaper1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100%;
+    height:auto;
+}
+
+.register-form{
+    margin-left:20%;
+    margin-right:20%;
+    margin-top:5%;
+    width:60%;
+    margin-bottom:3%;
+    border-style:solid;
+    border-color: green;
+}
+
+.login-form{
+    margin-left:30%;
+    margin-right:30%;
+    margin-top:5%;
+    width:40%;
+    margin-bottom:3%;
+    border-style:solid;
+    border-color: magenta;
+}
